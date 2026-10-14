@@ -1,0 +1,6 @@
+{
+  "name": "Bill Splitter",
+  "description": "A precise, responsive one-page bill splitting application with offline persistence, exact rounding distribution, and clean modern interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
